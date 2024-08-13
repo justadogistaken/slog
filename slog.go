@@ -6,8 +6,6 @@ import (
 	"strconv"
 	"sync"
 	"time"
-
-	_ "github.com/golang/glog" // load glog flag
 )
 
 var (
